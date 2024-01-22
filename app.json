@@ -2,6 +2,6 @@
     "name": "Salesforce Backup",
     "description": "A python app for salesforce backup",
     "repository": "https://github.com/maymisson/salesforce-backup",
-    "logo": "https://github.com/maymisson/salesforce-backup/main/public/python-salesforce-backup.svg",
+    "logo": "https://github.com/maymisson/salesforce-backup/blob/main/public/python-salesforce-backup.svg",
     "keywords": ["python"]
   }
