@@ -1,0 +1,7 @@
+{
+    "name": "Salesforce Backup",
+    "description": "A python app for salesforce backup",
+    "repository": "https://github.com/maymisson/salesforce-backup",
+    "logo": "https://github.com/maymisson/salesforce-backup/public/python-salesforce-backup.png",
+    "keywords": ["python"]
+  }
