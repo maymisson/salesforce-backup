@@ -1,2 +1,2 @@
-web: web/index.html
+web: python app.py
 worker: python sfbackup.py
