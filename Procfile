@@ -1,2 +1,2 @@
-web: heroku-php-apache2 web/
+web: heroku-php-apache2 web/index.php
 worker: python sfbackup.py
